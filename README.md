@@ -78,4 +78,11 @@ Analyzing product or service reviews on e-commerce websites.
 
 Monitoring brand sentiment on social media.
 
+# Output 
+<img width="1070" height="670" alt="Image" src="https://github.com/user-attachments/assets/afb671ed-54aa-496d-ba5b-5ac826647b19" />
+
+<img width="643" height="386" alt="Image" src="https://github.com/user-attachments/assets/96bd87b7-b99a-4211-9b38-ea359d7642da" />
+
+<img width="706" height="686" alt="Image" src="https://github.com/user-attachments/assets/e0af3bcf-6387-4d6b-86e1-52edb3102b57" />
+
 Automating feedback analysis for businesses.
